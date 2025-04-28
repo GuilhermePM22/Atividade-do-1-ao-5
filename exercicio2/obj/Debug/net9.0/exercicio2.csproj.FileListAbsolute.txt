@@ -1,0 +1,14 @@
+/Users/tiagopedra/exercicio2/bin/Debug/net9.0/exercicio2
+/Users/tiagopedra/exercicio2/bin/Debug/net9.0/exercicio2.deps.json
+/Users/tiagopedra/exercicio2/bin/Debug/net9.0/exercicio2.runtimeconfig.json
+/Users/tiagopedra/exercicio2/bin/Debug/net9.0/exercicio2.dll
+/Users/tiagopedra/exercicio2/bin/Debug/net9.0/exercicio2.pdb
+/Users/tiagopedra/exercicio2/obj/Debug/net9.0/exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagopedra/exercicio2/obj/Debug/net9.0/exercicio2.AssemblyInfoInputs.cache
+/Users/tiagopedra/exercicio2/obj/Debug/net9.0/exercicio2.AssemblyInfo.cs
+/Users/tiagopedra/exercicio2/obj/Debug/net9.0/exercicio2.csproj.CoreCompileInputs.cache
+/Users/tiagopedra/exercicio2/obj/Debug/net9.0/exercicio2.dll
+/Users/tiagopedra/exercicio2/obj/Debug/net9.0/refint/exercicio2.dll
+/Users/tiagopedra/exercicio2/obj/Debug/net9.0/exercicio2.pdb
+/Users/tiagopedra/exercicio2/obj/Debug/net9.0/exercicio2.genruntimeconfig.cache
+/Users/tiagopedra/exercicio2/obj/Debug/net9.0/ref/exercicio2.dll
